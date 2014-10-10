@@ -1,5 +1,14 @@
-name: huqi.github.io
+# Site settings
+title: huqi blog
+email: daqi1024@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  胡起的Blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://huqi.github.io" # the base hostname & protocol for your site
+twitter_username: hooqee
+github_username: huqi
+
+# Build settings
 markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 hilighter: true
