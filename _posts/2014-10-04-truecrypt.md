@@ -1,14 +1,13 @@
 ---
 layout: post
+title: TrueCrypt
+categories: tools
 ---
-TrueCrypt
-=========
-
 TrueCrypt已经停止开发，据[编程随想](http://program-think.blogspot.com/)分析7.1a可以继续使用，为防止下载链接失效，在baidu云盘中备份了一份。
 
 ###下载
-Operating System           | Download
----------------------------|--------------------------
+Operating System           |Download
+:--------------------------|:----------------------------------------
 Windows (XP/Vista/7/8)     |[TrueCrypt Setup 7.1a.exe]
 MacOS X                    |[TrueCrypt 7.1a Mac OS X.dmg]
 Linux x86 / gui            |[truecrypt-7.1a-linux-x86.tar.gz]
