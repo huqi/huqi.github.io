@@ -1,9 +1,0 @@
-| Name                    | Comments                     |
-|-------------------------+------------------------------|
-| Adblock Plus            | Advertisement                |
-| DownThemAll             | Download Manager             |
-| Evernote Web Clipper    | Evernote                     |
-| Https-Everywhere        | Force Https                  |
-| NoScript                | Script                       |
-| Sel-Destructing Cookies | Delete cookies automatically |
-| Vimperator              | Vimer must have              |
